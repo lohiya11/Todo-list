@@ -5,20 +5,22 @@ This project demonstrates DOM manipulation, LocalStorage usage, and basic CRUD (
 
 ---
 
-## 🚀 Features
+##  Features
 - ➕ Add new tasks
 - ✏ Edit existing tasks
 - ❌ Delete tasks
 - 📦 Data stored in LocalStorage
 - 📱 Responsive design
 
-## 🛠 Technologies Used
+##  Technologies Used
 - HTML5  
 - CSS3  
 - JavaScript 
 
-## 📌 How to Use
+## How to Use
 1. Type a task in the input box  
 2. Click *Add* button to add the task  
 3. Click ✏ to edit or ❌ to delete  
 4. Tasks will remain saved in your browser.
+
+##Live Link - https://lohiya11.github.io/Todo-list/
